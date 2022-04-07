@@ -28,9 +28,9 @@ h4 {
 }
 /* Make your p tag a different color and italic */
 p {
-color: yellowgreen;
-font-style: italic;
-text-align: center;
+    color: yellowgreen;
+    font-style: italic;
+    text-align: center;
 }
 /* Put a border around your image */
 img {
